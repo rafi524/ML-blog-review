@@ -1,7 +1,7 @@
 # ML-blog-review
 
 ## Review of the Blog: "AVATAR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning"
-Authors: 1905042 (Rakibul Hasan Rafi)
+Author: 1905042 (Rakibul Hasan Rafi)
 - **Paper Link**: [AVATAR on arXiv](https://arxiv.org/abs/2406.11200)  
 - **Blog Link**: [AVATAR Blog](https://gist.github.com/BRAINIAC2677/881ff1ac1e3abd646b5e8cb56ba142d8)
 
