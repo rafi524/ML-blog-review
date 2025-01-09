@@ -43,7 +43,9 @@ The blog avoids excessive technical jargon, making it accessible while maintaini
 
 #### Additional Resources
 - Visual aids like diagrams or workflow examples would make the blog more engaging and educational.
--A section explaining important terms and metrics would be helpful for a new reader.
+
+### Key-words section
+- A section explaining important terms and metrics would be helpful for a new reader.
 
 ### Conclusion
 
